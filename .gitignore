@@ -1,0 +1,12 @@
+# Project exclude paths
+/starter/target/
+
+.idea/
+
+target/
+
+*.iml
+
+*.bak
+
+tomcat/
